@@ -1,0 +1,10 @@
+# clasp local config (contains your script ID — fine to keep private per-machine)
+.clasp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
